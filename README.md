@@ -1,1 +1,1 @@
-# rnadom_graph_gen
+# random_graph_gen
