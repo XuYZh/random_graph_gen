@@ -18,7 +18,7 @@ typedef pair<int, int> link;
 
 int main()
 {
-    // srand(unsigned(time(NULL)));
+    srand(unsigned(time(NULL)));
     random_device rd();
     mt19937 gen;
     for (int i= rand()% 10000; i> 0; i--)
